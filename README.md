@@ -1,15 +1,15 @@
 ## Olá, me chamo Jefferson Henrique ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Tenho 21 anos, sou de Parelhas/RN e estou gostando bastante de programar em python, pensando em estudar um pouco de Javascript. Sou iniciante no universo da programação. 
+Tenho 21 anos, sou de Parelhas/RN e estou gostando bastante de codar em HTML 5 e CSS 3, pensando em estudar um pouco de Javascript. Sou iniciante no universo da programação. 
 
-Atualmente estou terminando curso tecnico em informatica no IFRN. 
+Atualmente terminei curso tecnico em informatica no IFRN. 
 
-Atualmente estou aprendendo Django, Javascript. 
+Atualmente estou aprendendo Javascript. 
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 
 ### Contatos:
 
